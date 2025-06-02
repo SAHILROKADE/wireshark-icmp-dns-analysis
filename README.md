@@ -11,7 +11,7 @@ This repository contains a Wireshark capture file (`ping_google.pcap`) which rec
 - Uploaded the capture and this README for reference and further analysis.
 
 ## How to open the capture file:
-- Open `ping_google.pcap` using Wireshark or any other compatible packet analysis tool.
+Open `ping_google.pcap` using Wireshark or any other compatible packet analysis tool.
 
 ## Summary:
 This capture helps understand network traffic, protocol communication, and packet analysis fundamentals using Wireshark.
